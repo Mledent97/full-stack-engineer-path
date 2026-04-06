@@ -4,3 +4,4 @@ Codecademy Full Stack Engineer career path.
 
 ## Projects
 - Fashion Blog — HTML structure and elements
+- Wine Festival Schedule — HTML tables and CSS styling
